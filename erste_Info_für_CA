@@ -1,0 +1,10 @@
+Das ist ein Hello World Test Code.
+Es gibt den Master "die Hauptversion" um Änderungen zu tätigen macht man eine "branche" auf, das ist dann eine Kopie vom Master zu diesem Zeitpunkt. 
+Dann macht man seine Änderungen und wenns fertig ist stellst du ein "Pull request", also ein request dass es in den Master übernommen wird. Dass kann dann abgelehnt oder angenommen werden. Oder davor noc diskutiert werden. 
+
+LEG DIR BITTE EINE BRANCHE AN UND MACHE EINE ÄNDEURNG UND DANN EINEN PULL REQUEST cHRISTIAN!! 
+
+
+
+Hier eine kurze kurze Einführung:
+https://guides.github.com/activities/hello-world/
